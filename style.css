@@ -1,0 +1,40 @@
+/* .one{
+    border: solid;
+    width: 100%;
+}
+.two{
+    border: solid greenyellow;
+    width: 50%;
+} */
+
+/* to create a relation between the div tags '+' is used here */
+/* '+' only the next sibling not the next one */
+/* '~'-general sibling selector all the siblings after it chnges will happen */
+
+/* .box{
+    width: 100px;
+    height: 100px;
+    padding: 10px 5px 4px;
+    margin: 10px;
+    box-sizing: border-box;
+    box-sizing: content-box;
+} */
+/* *{
+    border: solid;
+    border-color: blue;
+}
+p{
+    display: none;
+}
+.now{
+    width: 50%;
+    background-color: brown;
+    color: azure;
+    display: inline-block;
+}
+li{
+    display: inline;
+} */
+.one{
+    display: contents;
+}
