@@ -1,0 +1,28 @@
+/* inline wala */
+.part1{
+    border: 1px solid black;
+    width: 400px;
+    display: inline;
+    padding: 4px;
+    padding-right: 100px;
+}
+
+/* inline-block wala */
+.part2{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 6px;
+    width: 400px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 55px;
+}
+.b1{
+    display: inline;
+    padding: 10px;
+    margin-right: 10px;
+    color:rgb(7, 102, 244);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(163, 162, 162);
+    border-radius: 1px;
+}
